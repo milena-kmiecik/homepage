@@ -1,0 +1,20 @@
+body {
+    background-color: rgba(85, 85, 204, 0.308);
+}
+.about-me {
+    background-color: hotpink;
+    font-style: oblique;
+    color: indigo;
+}
+.notes {
+    background-color: lightblue;
+    font-weight: bold;
+    color: #5e4a2f 
+}
+h1 {
+    color: rgb(18, 10, 87);
+}
+img {
+    height: 25%;
+    width: 25%;
+}
